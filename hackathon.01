@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AirFlow - Frictionless Travel</title>
+</head>
+<body style="font-family: Arial, sans-serif; margin: 0; padding: 0;">
+
+    <!-- Header Section -->
+    <header style="background-color: #4A90E2; padding: 20px;">
+        <div style="display: flex; justify-content: space-between; align-items: center; max-width: 1200px; margin: auto;">
+            <!-- Logo -->
+            <h1 style="color: white; font-size: 24px; margin: 0;">AirFlow</h1>
+            <!-- Navigation -->
+            <nav>
+                <a href="#features" style="color: white; text-decoration: none; margin-right: 15px;">Features</a>
+                <a href="#solutions" style="color: white; text-decoration: none; margin-right: 15px;">Solutions</a>
+                <a href="#testimonials" style="color: white; text-decoration: none; margin-right: 15px;">Testimonials</a>
+                <a href="#contact" style="color: white; text-decoration: none;">Contact</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section style="background-image: url('https://example.com/plane.jpg'); background-size: cover; height: 400px; color: white; display: flex; align-items: center; justify-content: center; text-align: center;">
+        <div>
+            <h1 style="font-size: 48px; margin-bottom: 20px;">AirFlow: Your Journey, Simplified</h1>
+            <p style="font-size: 20px;">Experience frictionless air travel, powered by AI and technology.</p>
+            <a href="#features" style="background-color: #333333; padding: 10px 20px; color: white; text-decoration: none; border-radius: 5px;">Learn More</a>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section id="features" style="padding: 40px; background-color: #f4f4f4;">
+        <h2 style="text-align: center; color: #4A90E2;">Why AirFlow?</h2>
+        <div style="display: flex; justify-content: space-around; text-align: center; max-width: 1200px; margin: auto;">
+            <div style="width: 200px;">
+                <img src="https://example.com/profile-icon.png" alt="Personalized Profiles" style="width: 100px;">
+                <h3>Personalized Profiles</h3>
+                <p>Save your preferences and enjoy tailored journeys every time.</p>
+            </div>
+            <div style="width: 200px;">
+                <img src="https://example.com/biometric-icon.png" alt="Biometric Check-ins" style="width: 100px;">
+                <h3>Biometric Check-ins</h3>
+                <p>Effortless boarding with facial recognition.</p>
+            </div>
+            <div style="width: 200px;">
+                <img src="https://example.com/disruption-icon.png" alt="Disruption Management" style="width: 100px;">
+                <h3>Disruption Management</h3>
+                <p>Stay informed with real-time updates and automatic rebooking.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Solutions Section -->
+    <section id="solutions" style="padding: 40px;">
+        <h2 style="text-align: center; color: #4A90E2;">Revolutionizing Air Travel</h2>
+        <p style="text-align: center; max-width: 800px; margin: auto;">Our AI-driven platform ensures a seamless journey by predicting passenger needs, managing disruptions, and optimizing resource allocation. From booking to boarding, AirFlow handles it all so you don’t have to.</p>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section id="testimonials" style="padding: 40px; background-color: #f4f4f4;">
+        <h2 style="text-align: center; color: #4A90E2;">What Our Customers Are Saying</h2>
+        <div style="display: flex; justify-content: space-around; text-align: center; max-width: 1200px; margin: auto;">
+            <div style="width: 200px;">
+                <img src="https://example.com/user1.jpg" alt="User1" style="width: 80px; border-radius: 50%;">
+                <p>"AirFlow made my trip so smooth! I’ll never travel the old way again."</p>
+                <p><strong>- Jessica R.</strong></p>
+            </div>
+            <div style="width: 200px;">
+                <img src="https://example.com/user2.jpg" alt="User2" style="width: 80px; border-radius: 50%;">
+                <p>"Flight canceled? AirFlow had me rebooked before I even knew!"</p>
+                <p><strong>- John M.</strong></p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Call-to-Action Section -->
+    <section id="contact" style="padding: 40px; background-color: #4A90E2; color: white; text-align: center;">
+        <h2>Join the Future of Air Travel</h2>
+        <p>Experience seamless, stress-free journeys with AirFlow. Sign up for early access today!</p>
+        <a href="#" style="background-color: white; padding: 10px 20px; color: #4A90E2; text-decoration: none; border-radius: 5px;">Get Started</a>
+    </section>
+
+    <!-- Footer Section -->
+    <footer style="background-color: #333333; padding: 20px; text-align: center; color: white;">
+        <p>&copy; 2024 AirFlow. All rights reserved.</p>
+        <p><a href="#" style="color: white; text-decoration: none;">Privacy Policy</a></p>
+    </footer>
+
+</body>
+</html>
